@@ -56,8 +56,9 @@ Komunikasi antara frontend dan backend dilakukan sepenuhnya melalui **RESTful AP
 
 | No | Fitur | Deskripsi | Screenshot |
 |----|-------|-----------|------------|
-| 1 | **Landing Page (Home)** | Halaman utama yang menyusun seluruh section dari atas ke bawah: Hero section dengan background video, About, Fasilitas, Kegiatan, Event, Galeri, dan Kontak. Animasi scroll reveal untuk setiap section. | ![Landing Page](./screenshots/landing-page.png) |
-| 2 | **Hero Section** | Background video/gambar dengan teks judul dan sub-judul yang dinamis. Konten dapat diubah oleh admin melalui dashboard. | ![Hero Section](./screenshots/hero-section.png) |
+| 1 | **Landing Page (Home)** | Halaman utama yang menyusun seluruh section dari atas ke bawah: Hero section dengan background video, About, Fasilitas, Kegiatan, Event, Galeri, dan Kontak. Animasi scroll reveal untuk setiap section. | <img width="1899" height="898" alt="image" src="https://github.com/user-attachments/assets/bcabca5b-4284-4db1-b28d-f20de62e4b69" /> |
+| 2 | **Hero Section** | Background video/gambar dengan teks judul dan sub-judul yang dinamis. Konten dapat diubah oleh admin melalui dashboard. | <img width="1892" height="864" alt="image" src="https://github.com/user-attachments/assets/0b3df20d-aa1b-4518-bf8b-db714d3c4755" />
+ |
 | 3 | **Halaman Galeri** | Galeri foto terpisah dengan grid layout responsif. Dilengkapi carousel Embla untuk tampilan slideshow dan lightbox untuk melihat foto ukuran penuh. | ![Galeri](./screenshots/gallery-page.png) |
 | 4 | **Halaman Event** | Daftar seluruh event/acara yang tersedia dalam format kartu. Menampilkan gambar, judul, tanggal, dan lokasi. Klik kartu untuk detail lengkap. | ![Events](./screenshots/events-page.png) |
 | 5 | **Detail Event** | Halaman detail satu event dengan informasi lengkap: deskripsi, gambar, tanggal & waktu, lokasi, dan kontak penyelenggara. | ![Detail Event](./screenshots/event-detail.png) |
